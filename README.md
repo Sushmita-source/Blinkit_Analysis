@@ -56,7 +56,7 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 - Share results, deploy/automate, and monitor over time – Distribute reports, set automated analysis scripts, and review periodically.
 
 ## python File 
-- <a href= "https://github.com/Sushmita-source/Blinkit_Analysis/blob/main/Blinkit%20Analysis%20in%20Python.ipynb"> Data Set</a>
+- <a href= "https://github.com/Sushmita-source/Blinkit_Analysis/blob/main/Blinkit%20Analysis%20in%20Python.ipynb"> Python File </a>
 
 
 
