@@ -76,6 +76,8 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 ## Results
 - Evaluated models using metrics: R² Score, RMSE, MAE.  
 - XGBoost generally outperformed Random Forest on accuracy.
+## Python File 
+- <a href= "https://github.com/Sushmita-source/Blinkit_Analysis/blob/main/Blinkit%20Analysis%20in%20Python.py"> Python File </a>
 ## Summary 
 Analyzed BlinkIT Grocery data with preprocessing, EDA, and feature engineering. Built regression models (Random Forest, XGBoost) to predict sales, optimized performance using metrics (R², RMSE), showcasing end-to-end data analysis and machine learning workflow
 
