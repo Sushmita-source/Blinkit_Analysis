@@ -57,6 +57,28 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 ## python File 
 - <a href= "https://github.com/Sushmita-source/Blinkit_Analysis/blob/main/Blinkit%20Analysis%20in%20Python.ipynb"> Python File </a>
+## Data Modeling 
+## Project Overview
+- This project predicts grocery item sales using Machine Learning Regression models, We aim to help retail businesses optimize pricing, and outlet performance.
+## Steps for Data Modeling
+- Data Collection-Load BlinkIT dataset (CSV provided).  
+- Data Cleaning - Handle missing values, outliers, inconsistent data.  
+- Exploratory Data Analysis (EDA)** → Visualize trends & relationships.  
+- Feature Engineering - Encode categorical variables, scaling.  
+- Train-Test Split - Prepare training & testing datasets.  
+- Model Selection - Random Forest & XGBoost Regressor.  
+- Model Training - Fit models on training data.  
+- Model Evaluation -  Compare performance using R², RMSE, MAE.  
+- Hyperparameter Tuning -  Optimize parameters for better accuracy.  
+## Algorithms Used
+- Random Forest Regressor - Robust ensemble method, handles non-linearity.  
+- XGBoost Regressor - Gradient boosting, usually higher accuracy on tabular data.
+## Results
+- Evaluated models using metrics: R² Score, RMSE, MAE.  
+- XGBoost generally outperformed Random Forest on accuracy.
+## Summary 
+Analyzed BlinkIT Grocery data with preprocessing, EDA, and feature engineering. Built regression models (Random Forest, XGBoost) to predict sales, optimized performance using metrics (R², RMSE), showcasing end-to-end data analysis and machine learning workflow
+
 
 
 
